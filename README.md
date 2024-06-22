@@ -1,11 +1,4 @@
-<div align="center">
-  <h3 style="horizontal-align:middle;">Hello👋! My name is Lucas Chan, a student from HKUST CS &nbsp &nbsp
-    <a href="https://www.linkedin.com/in/lucas-chan-578039267" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    </a>
-  </h3>
-</div>
-  
+ 
 ###
 
 <div align="center">
@@ -14,6 +7,9 @@
 </div>
 
 ###
+
+# About Me
+I am a prospective MPhil student at HKUST with a deep passion for artificial intelligence and quantitative research. I find immense joy in coding and continuously expanding my knowledge base. Through my research journey, I have had the opportunity to delve into the fascinating realms of AI and technology, allowing me to gain valuable insights.
 
 ###
 
