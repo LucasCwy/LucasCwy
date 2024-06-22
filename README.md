@@ -56,17 +56,11 @@ Connect me via LinkedIn
 
 ###
 
-<div align="center">
-  <hr />
-  <strong>
-    A self-driven, collaborative, and curious student who is obsessed with AI and Quantitative Research.
-  </strong>
-</div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LucasCwy/LucasCwy/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LucasCwy/LucasCwy/output/snake.svg" alt="Snake animation" />
 
 ###
