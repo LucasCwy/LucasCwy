@@ -13,8 +13,6 @@
 ## About Me👋
 I am a prospective MPhil student at HKUST with a deep passion for artificial intelligence and quantitative research. I find immense joy in coding and continuously expanding my knowledge base. Through my research journey, I have had the opportunity to delve into the fascinating realms of AI and technology, allowing me to gain valuable insights.
 
-<hr />
-
 ###
 
 ## Tolls that I usually use💼
@@ -54,10 +52,13 @@ Connect me via LinkedIn
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
 
+<hr />
+
 ###
 
 
 ###
+
 
 <br clear="both">
 
