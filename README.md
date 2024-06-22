@@ -6,12 +6,18 @@
   <img src="https://streak-stats.demolab.com?user=LucasCwy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+<hr />
+
 ###
 
-# About Me
+## About Me👋
 I am a prospective MPhil student at HKUST with a deep passion for artificial intelligence and quantitative research. I find immense joy in coding and continuously expanding my knowledge base. Through my research journey, I have had the opportunity to delve into the fascinating realms of AI and technology, allowing me to gain valuable insights.
 
+<hr />
+
 ###
+
+## Tolls that I usually use💼
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -41,6 +47,15 @@ I am a prospective MPhil student at HKUST with a deep passion for artificial int
 
 ###
 
+## Social Media
+Connect me via LinkedIn 
+  
+<a href="https://www.linkedin.com/in/lucas-chan-578039267" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
+
+###
+
 <div align="center">
   <hr />
   <strong>
@@ -52,6 +67,6 @@ I am a prospective MPhil student at HKUST with a deep passion for artificial int
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LucasCwy/LucasCwy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LucasCwy/LucasCwy/main/snake.svg" alt="Snake animation" />
 
 ###
