@@ -12,7 +12,7 @@
 ###
 
 ## About Me👋
-I am a prospective MPhil student at HKUST with a deep passion for artificial intelligence and quantitative research. I find immense joy in coding and continuously expanding my knowledge base. Through my research journey, I have had the opportunity to delve into the fascinating realms of AI and technology, allowing me to gain valuable insights.
+I am a prospective MPhil student at [HKUST](https://hkust.edu.hk/) with a deep passion for artificial intelligence and quantitative research. I find immense joy in coding and continuously expanding my knowledge base. Through my research journey, I have had the opportunity to delve into the fascinating realms of AI and technology, allowing me to gain valuable insights.
 
 ###
 
