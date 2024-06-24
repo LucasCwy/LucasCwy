@@ -18,7 +18,7 @@ I am a prospective MPhil student at [HKUST](https://hkust.edu.hk/) with a deep p
 
 ## Tools that I usually use💼
 
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -58,15 +58,21 @@ I am a prospective MPhil student at [HKUST](https://hkust.edu.hk/) with a deep p
 
 ###
 
+## Currently exploring
+- Contrastive learning
+- Multimodal learning
+- Large language model
+- portfolio optimization
+
+###
+
 ## Social Media💻
-Connect me via LinkedIn 
-  
+Connect me via LinkedIn - 
 <a href="https://www.linkedin.com/in/lucas-chan-578039267" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
 
-LeetCode account  
-  
+LeetCode account - 
 <a href="https://leetcode.com/u/LCCCCas/" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
